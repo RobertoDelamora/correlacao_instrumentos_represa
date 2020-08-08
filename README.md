@@ -13,6 +13,6 @@
 
 **Importante:** Os dados foram anonimizados por questões de segurança e privacidade.
 
-# Follow me at Linkdin
+# Follow me at Linkedin
 
 https://www.linkedin.com/in/robertodelamora/
