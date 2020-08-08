@@ -8,11 +8,11 @@
 
 - Carga de arquivos .csv com informações de instrumentos e as medições realizadas por esses instrumentos;
 - Tratamento dos dados;
-- Definição de índice de correlação linear (PEARSON) de cada instrumento com o target;
+- Definição de coeficiente de correlação linear (PEARSON) de cada instrumento com o target;
 - Apresentação de resultados em gráficos e tabelas.
 
-**Importante:** Os dados foram anonimizados.
+**Importante:** Os dados foram anonimizados por questões de segurança e privacidade.
 
-### Follow me at Linkdin
+# Follow me at Linkdin
 
 https://www.linkedin.com/in/robertodelamora/
